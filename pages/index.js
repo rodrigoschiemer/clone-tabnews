@@ -1,6 +1,6 @@
 function Home() {
 	return (
-		<h1>Mensagem da pagina inicial...</h1>
+		<h1>Alterando a mensagem da pagina inicial...</h1>
 	);
 }
 
